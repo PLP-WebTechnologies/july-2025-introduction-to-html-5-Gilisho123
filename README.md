@@ -32,4 +32,4 @@ A single HTML file named `index.html`. It should include:
 * Organize content with accessibility in mind.
 * Apply basic on-page SEO techniques.
 * Follow clean, readable HTML code structure.
-
+## GOODLUCK!
